@@ -36,6 +36,6 @@ Download the files and click 'Ready'.
 
 *The jar will execute from any directory.*  
 
-**The program calls the players keyboard to automatically input their hash (public key) after a successful attempt**  
+**The program calls the players keyboard to automatically input their hash (public key)**  
 **If a player augments this field on their first block, then their coins will be irretrievable**  
 **This is due to the nature of how KMCoin reads transactions from the player_info page**  
